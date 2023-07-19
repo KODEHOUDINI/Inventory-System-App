@@ -1,5 +1,5 @@
-package com.example.lesleyedinamabotsi.Algorithms.Searching;
-import com.example.lesleyedinamabotsi.data.Entity;
+package com.example.lesleyedinamabotsi2257.Algorithms.Searching;
+import com.example.lesleyedinamabotsi2257.data.Entity;
 import java.util.List;
 
 public class BinarySearch {

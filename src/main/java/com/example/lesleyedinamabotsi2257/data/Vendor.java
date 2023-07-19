@@ -1,4 +1,4 @@
-package com.example.lesleyedinamabotsi.data;
+package com.example.lesleyedinamabotsi2257.data;
 
 public class Vendor {
     private int id;

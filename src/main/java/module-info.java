@@ -4,6 +4,8 @@ module com.example.lesleyedinamabotsi {
     requires java.sql;
             
                             
-    opens com.example.lesleyedinamabotsi to javafx.fxml;
-    exports com.example.lesleyedinamabotsi;
+    opens com.example.lesleyedinamabotsi2257 to javafx.fxml;
+    exports com.example.lesleyedinamabotsi2257;
+    exports com.example.lesleyedinamabotsi2257.controller;
+    opens com.example.lesleyedinamabotsi2257.controller to javafx.fxml;
 }

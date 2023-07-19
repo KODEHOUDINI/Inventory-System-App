@@ -1,8 +1,8 @@
-package com.example.lesleyedinamabotsi.repository;
+package com.example.lesleyedinamabotsi2257.repository;
 
 
 import java.util.*;
-import com.example.lesleyedinamabotsi.data.*;
+import com.example.lesleyedinamabotsi2257.data.*;
 public class Goods {
     private Stack<Good> stack;     // Stack to hold goods with category 1 to 4
     private Queue<Good> queue;     // Queue to hold goods with category 5 to 7

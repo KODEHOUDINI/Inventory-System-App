@@ -1,11 +1,7 @@
-package com.example.lesleyedinamabotsi;
+package com.example.lesleyedinamabotsi2257.controller;
 
-import com.example.lesleyedinamabotsi.data.Good;
-import com.example.lesleyedinamabotsi.data.SOURCE;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
-
-import java.util.List;
 
 public class HelloController {
     @FXML

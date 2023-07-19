@@ -1,16 +1,13 @@
-package com.example.lesleyedinamabotsi;
+package com.example.lesleyedinamabotsi2257;
 /* *
 @author Lesley Edinam Kwasi Abotsi (10862257)
 * */
-import com.example.lesleyedinamabotsi.data.Good;
-import com.example.lesleyedinamabotsi.data.SOURCE;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 import java.io.IOException;
-import java.util.List;
 
 public class HelloApplication extends Application {
     @Override
